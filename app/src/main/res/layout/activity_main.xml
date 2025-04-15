@@ -65,8 +65,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Gmail"
-                android:textSize="16sp"
-                android:textColor="@android:color/darker_gray" />
+                android:textColor="#B11919"
+                android:textSize="16sp" />
 
             <EditText
                 android:id="@+id/email_edit_text"
@@ -87,8 +87,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="Password"
-                android:textSize="16sp"
-                android:textColor="@android:color/darker_gray" />
+                android:textColor="#B11919"
+                android:textSize="16sp" />
 
             <EditText
                 android:id="@+id/password_edit_text"
